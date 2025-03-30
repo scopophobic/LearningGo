@@ -1,8 +1,9 @@
 
 ## All the good resource found in my journey of learning GoLang :
 
-[Tour of Go - good site for practice and basics](https://go.dev/tour/welcome/1)
-[Go Online Editor to play around](https://go.dev/play/)
+- [Tour of Go ](https://go.dev/tour/welcome/1)- good site for practice and basics
+- [Go Online Editor](https://go.dev/play/)- play around with go code.
+- [Go Offical Documentation](https://go.dev/doc/effective_go)- is considered as good and only resource you might need to learn the basics and further.
 
 
 
