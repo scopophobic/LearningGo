@@ -10,9 +10,6 @@
 ✅ Practice control structures (if, switch, loops)  
 ✅ Hands-on: Write a simple calculator CLI  
 
-📚 **Resources:**  
-- A Tour of Go  
-- Go Playground  
 
 ### **Day 2: Functions, Structs & Error Handling**
 ✅ Learn functions & multiple return values  

@@ -42,7 +42,7 @@
 
 | Day | Topic                                   | Status |
 | --- | --------------------------------------- | ------ |
-| 1   | Setup, Basics (Variables, Loops, Funcs) | ⚪     |
+| 1   | Setup, Basics (Variables, Loops, Funcs) | 🟢     |
 | 2   | Structs, Methods, Error Handling        | ⚪     |
 | 3   | Arrays, Slices, Maps & Ranges           | ⚪     |
 | 4   | Pointers, Defer, Interfaces             | ⚪     |

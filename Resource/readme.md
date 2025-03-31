@@ -8,5 +8,6 @@
 
 
 ## Books :
-- Advanced go api patterns ~ alex edward
+- Let’s Go by Alex Edwards
+- Advanced go API patterns ~ alex edward
 
