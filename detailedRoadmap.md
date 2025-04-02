@@ -18,7 +18,7 @@
 ✅ Hands-on: Write a CLI tool to manage a list of books (struct-based)  
 
 ### **Day 3: Arrays, Slices, Maps & Ranges**
-✅ Learn arrays, slices, and map types  
+✅ Learn arrays, slices, map types & receiver functions  
 ✅ Understand slice manipulation & memory efficiency  
 ✅ Learn how range works with collections  
 ✅ Hands-on: Write a program that processes student records (map-based)  
